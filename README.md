@@ -1,7 +1,6 @@
 
 
 안녕하세요.
-명지대학교
 한철희입니다.
 ---
 ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
