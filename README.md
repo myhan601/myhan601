@@ -12,7 +12,7 @@
 ---
 
 <a href="https://velog.io/@myhan601">
-  <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 
 ---
