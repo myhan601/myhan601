@@ -7,9 +7,8 @@
 ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ---
-![](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=velog&logoColor=white&link="https://velog.io/@myhan601")
-<a href="[자신의 블로그 주소](https://velog.io/@myhan601)">
-  <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
+<a href="https://velog.io/@myhan601">
+  <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myhan601)
