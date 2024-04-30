@@ -8,6 +8,10 @@
 ![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ---
 ![]<a href="https://velog.io/@myhan601/posts">(https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@myhan601)
+
+<a href="https://velog.io/@myhan601/posts">
+  <img src="[https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=velog&logoColor=white"/>
+</a>
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myhan601)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=myhan601)
